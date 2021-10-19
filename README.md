@@ -1,6 +1,11 @@
 
 # CovidXRayPrediction-CNN
 
+<p float="left">
+<img src=normal.jpeg width="30%"  height="250">
+ <img src=effected.jpeg width="30%" height="250" >
+</p>
+
 
 
 ## 📝 Overview
